@@ -10,8 +10,8 @@ cs11rl2048 is my Computer Science 11 project in 2025&ndash;26. My project is abo
 2. Unzip the downloaded zip file and go to it in your terminal
 ```sh
 cd Downloads
-unzip cs11rl2048-main.zip
-cd cs11rl2048-main
+unzip cs11rl2048_public-main.zip
+cd cs11rl2048_public-main
 ```
 3. Make a virtual environment (optional)
 ```sh
